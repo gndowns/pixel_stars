@@ -1,0 +1,6 @@
+stars
+star_bits
+starbits
+ascii_stars
+8bitStars
+text stars
